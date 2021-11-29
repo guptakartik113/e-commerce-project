@@ -3,7 +3,7 @@ function Error() {
   return (
     <div>
       <div className="nopage">
-        <h1 style={{ color: "black" }}>Page not found.</h1>
+        <h1 style={{ color: "black" }}>Page not found</h1>
       </div>
     </div>
   );

@@ -1,6 +1,6 @@
 import "jquery";
 import "bootstrap/dist/css/bootstrap.css";
-import "./App.css";
+
 import Navbar from "./components/navbar/Navbar";
 import { BrowserRouter } from "react-router-dom";
 import { Route } from "react-router";
